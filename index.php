@@ -9,7 +9,7 @@
 <body>
     <form action="submit.php" method="post">
     <h1>Login</h1>
-        <label for="fullname">Username:</label>
+        <label for="username">Username:</label>
         <input type="text" name="username" id="username" placeholder="Username">
         <br>
         <label for="password">Password:</label>
